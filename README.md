@@ -2,7 +2,7 @@
 
 Automated bot for Zetarium Airdrop platform with daily check-in, faucet claiming, and prediction market trading features.
 
-🔗 **Register Here**: [https://airdrop.zetarium.world/?ref=3e8f482b](https://airdrop.zetarium.world/?ref=3e8f482b)
+🔗 **Register Here**: [https://airdrop.zetarium.world/?ref=dcca1107](https://airdrop.zetarium.world/?ref=dcca1107)
 
 ## Features
 
@@ -25,8 +25,7 @@ Automated bot for Zetarium Airdrop platform with daily check-in, faucet claiming
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/febriyan9346/Zetarium-Auto-Bot.git
-cd Zetarium-Auto-Bot
+git clone https://github.com/airdropbomb/zetar.git && cd zetar
 ```
 
 2. Install required dependencies:
@@ -49,7 +48,7 @@ private_key=another_private_key
 ```
 
 **How to get your token:**
-1. Login to [Zetarium Airdrop](https://airdrop.zetarium.world/?ref=3e8f482b)
+1. Login to [Zetarium Airdrop](https://airdrop.zetarium.world/?ref=dcca1107)
 2. Open Browser Developer Tools (F12)
 3. Go to Network tab
 4. Refresh the page
@@ -141,36 +140,3 @@ The bot interacts with the following BSC Testnet contracts:
 **"Transaction Failed on Blockchain"**
 - Check if you have enough testnet BNB for gas
 - Market might be closed or betting deadline passed
-
-## Donations
-
-If this bot helped you, consider supporting the developer:
-
-### Support Us with Cryptocurrency
-
-You can make a contribution using any of the following blockchain networks:
-
-| Network | Wallet Address |
-|---------|---------------|
-| **EVM** | `0x216e9b3a5428543c31e659eb8fea3b4bf770bdfd` |
-| **TON** | `UQCEzXLDalfKKySAHuCtBZBARCYnMc0QsTYwN4qda3fE6tto` |
-| **SOL** | `9XgbPg8fndBquuYXkGpNYKHHhymdmVhmF6nMkPxhXTki` |
-| **SUI** | `0x8c3632ddd46c984571bf28f784f7c7aeca3b8371f146c4024f01add025f993bf` |
-
-## Disclaimer
-
-This bot is provided for educational purposes only. Use at your own risk. The author is not responsible for any losses or damages that may occur from using this software.
-
-## License
-
-MIT License - feel free to modify and distribute
-
-## Author
-
-Created by **FEBRIYAN**
-
----
-
-⭐ If you find this bot useful, please star this repository!
-
-📢 Join the community and share your experience!
